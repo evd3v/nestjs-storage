@@ -19,4 +19,4 @@ tests/data/*
 /.nyc_output
 
 # dist
-dist
+#dist
